@@ -7,4 +7,4 @@ Hi, I'm EricThsi, a full-stack web developer who love JavaScript
 - 📫 How to reach me: [here](http://blog.thsi.tech/)
 - ⚡ Fun fact: 👨‍💻 ⚽️ 📚.
 
-[![EricThsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricThsi)](https://github.com/anuraghazra/github-readme-stats)
+[![EricThsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricThsi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
