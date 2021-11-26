@@ -1,6 +1,6 @@
 ### Hi there, I'm [PlusWhite](http://blog.thsi.tech) 👋
 
-Hi, I'm EricThsi, a full-stack web developer who love JavaScript
+Hi, I'm PlusWhite, a full-stack web developer who love JavaScript
 
 - 🔭 I’m currently working on [ThoughtWorks](https://www.thoughtworks.com/)
 - 🌱 I’m currently learning Kotlin
