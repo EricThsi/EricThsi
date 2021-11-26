@@ -7,4 +7,4 @@ Hi, I'm PlusWhite, a full-stack web developer who love JavaScript
 - 📫 How to reach me: [here](http://blog.thsi.tech/)
 - ⚡ Fun fact: 👨‍💻 ⚽️ 📚.
 
-[![PlusWhite's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricThsi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![PlusWhite's GitHub stats](https://github-readme-stats.vercel.app/api?username=pluswhite&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
