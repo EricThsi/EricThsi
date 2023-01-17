@@ -3,7 +3,7 @@
 Hi, I'm PlusWhite, a full-stack web developer who love JavaScript
 
 - 🔭 I’m currently working on [ThoughtWorks](https://www.thoughtworks.com/)
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning GraphQL and AWS
 - 📫 How to reach me: [here](http://blog.thsi.tech/)
 - ⚡ Fun fact: 👨‍💻 📚 ⚽️ 🎧.
 
